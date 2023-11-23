@@ -22,6 +22,8 @@
 ![image](https://github.com/hxnxrx/Backoffice---Python-Tkinter-MySQL/assets/94763527/9a02aa66-50a0-4f4a-96a7-ba3c255773cf)
 ![image](https://github.com/hxnxrx/Backoffice---Python-Tkinter-MySQL/assets/94763527/48333f16-1485-4069-8b1e-5c18e947e6cf)
 
-<h1> Logo </h1>
+![image](https://github.com/hxnxrx/Backoffice---Python-Tkinter-MySQL/assets/94763527/fbb016f8-4f6a-4f03-9e60-92691197052b)
+![image](https://github.com/hxnxrx/Backoffice---Python-Tkinter-MySQL/assets/94763527/9bc5d514-11cd-4725-85ab-d60798d1cb50)
 
-![image](https://github.com/hxnxrx/Backoffice---Python-Tkinter-MySQL/assets/94763527/08e32b81-50ae-47a5-9536-a6deb40ef845)
+
+
